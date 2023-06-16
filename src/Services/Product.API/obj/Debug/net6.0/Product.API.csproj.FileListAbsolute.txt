@@ -70,3 +70,7 @@ D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.
 D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Contracts.pdb
 D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Humanizer.dll
 D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Shared.dll
+D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Shared.pdb
+D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Infrastructure.dll
+D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Infrastructure.pdb

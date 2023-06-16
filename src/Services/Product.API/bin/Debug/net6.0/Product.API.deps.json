@@ -10,6 +10,7 @@
         "dependencies": {
           "Common.Logging": "1.0.0",
           "Contracts": "1.0.0",
+          "Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.18",
           "Microsoft.EntityFrameworkCore.Design": "6.0.18",
           "Pomelo.EntityFrameworkCore.MySql": "6.0.2",
@@ -19,6 +20,7 @@
           "Serilog.Settings.Configuration": "7.0.0",
           "Serilog.Sinks.Console": "4.1.0",
           "Serilog.Sinks.File": "5.0.0",
+          "Shared": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -630,8 +632,24 @@
         }
       },
       "Contracts/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.18"
+        },
         "runtime": {
           "Contracts.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "dependencies": {
+          "Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Infrastructure.dll": {}
+        }
+      },
+      "Shared/1.0.0": {
+        "runtime": {
+          "Shared.dll": {}
         }
       }
     }
@@ -1054,6 +1072,16 @@
       "sha512": ""
     },
     "Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

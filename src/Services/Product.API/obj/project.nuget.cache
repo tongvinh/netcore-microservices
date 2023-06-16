@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q6sm9shZgESCkHX0NhomHL52wpEFk4tk/Ec5WJ4Aja7zgnxQ64EYqsn8l3wOKANFGGG0buEdgWHZjgk1/gQ2fQ==",
+  "dgSpecHash": "b4Wpad0WczU3xE5telgPAwqP/EY/WJJ9QMTa/NEKDeAiSweZkdiil51706afnI7cSn2SycvX1Uazxwo7cI81Fg==",
   "success": true,
   "projectFilePath": "D:\\ITCom21\\Study\\Tedu-Microservice\\aspnetcore-microservice\\src\\Services\\Product.API\\Product.API.csproj",
   "expectedPackageFiles": [
