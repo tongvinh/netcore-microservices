@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "iwAFOe6l3ykSro4ZvnMqOzdRbnIei5CW9PVdMBmd/6T3aALSX/HnAAmVd4mpvVbDSB3jybrSL+vfwQ3DvxRuvQ==",
+  "dgSpecHash": "YFN3wew0ht/O8loqH79z7Ut0QVV/tavMEtGXEQuugR1UP91bUgdvhIiV9HKeDwYPruOSua7SLtkmVpEV5a7bRg==",
   "success": true,
   "projectFilePath": "D:\\ITCom21\\Study\\Tedu-Microservice\\aspnetcore-microservice\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tongg\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\tongg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\tongg\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.18\\microsoft.entityframeworkcore.6.0.18.nupkg.sha512",
     "C:\\Users\\tongg\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.18\\microsoft.entityframeworkcore.abstractions.6.0.18.nupkg.sha512",
     "C:\\Users\\tongg\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.18\\microsoft.entityframeworkcore.analyzers.6.0.18.nupkg.sha512",

@@ -74,3 +74,5 @@ D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.
 D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Shared.pdb
 D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Infrastructure.dll
 D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Infrastructure.pdb
+D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\AutoMapper.dll
+D:\ITCom21\Study\Tedu-Microservice\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

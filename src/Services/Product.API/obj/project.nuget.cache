@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b4Wpad0WczU3xE5telgPAwqP/EY/WJJ9QMTa/NEKDeAiSweZkdiil51706afnI7cSn2SycvX1Uazxwo7cI81Fg==",
+  "dgSpecHash": "BOsGl24E4dOQ2dOSRTM5qk3WhxlwCFI7J61emsnA06KKF+rOPgItuNx19Eedq0tS5PTXALmFL3kEz13UREUV5Q==",
   "success": true,
   "projectFilePath": "D:\\ITCom21\\Study\\Tedu-Microservice\\aspnetcore-microservice\\src\\Services\\Product.API\\Product.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tongg\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\tongg\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\tongg\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\tongg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\tongg\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.18\\microsoft.entityframeworkcore.6.0.18.nupkg.sha512",
     "C:\\Users\\tongg\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.18\\microsoft.entityframeworkcore.abstractions.6.0.18.nupkg.sha512",
     "C:\\Users\\tongg\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.18\\microsoft.entityframeworkcore.analyzers.6.0.18.nupkg.sha512",
